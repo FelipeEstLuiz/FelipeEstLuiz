@@ -1,6 +1,13 @@
 ## 👋 Hello! Welcome to my Github profile.
 ### My name is Felipe Estevam and my nickname is "FelipeEstLuiz"!
 
+
+<div>
+<a href="https://github.com/FelipeEstLuiz">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeEstLuiz&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeEstLuiz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 <div>
 <a href="https://github.com/FelipeEstLuiz"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="5%" width="5%"/></a>   <a href="https://github.com/FelipeEstLuiz"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" height="5%" width="5%" /></a>  <a href="https://github.com/FelipeEstLuiz"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="5%" width="5%"/></a> <a href="https://github.com/FelipeEstLuiz"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="5%" width="5%"/></a> <a href="https://github.com/FelipeEstLuiz"> 
           
