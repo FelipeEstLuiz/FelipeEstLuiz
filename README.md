@@ -9,15 +9,16 @@ I am a passionate software developer with experience in backend and frontend tec
 
 - [**NetCore6-IdentityServer-MicroServices**](https://github.com/FelipeEstLuiz/NetCore6-IdentityServer-MicroServices): project created for study with the following technologies, ASP .NET Core 6, Oauth2, OpenID, Identity Server, RabbitMQ, MicroService.
 
+---
 
-## <table align="center">
+<table align="center">
   <tr>
     <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeEstLuiz&layout=compact&langs_count=7&theme=blue-green" alt="Top Languages"/></td>
     <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeEstLuiz&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true" alt="GitHub Stats"/></td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td colspan="2" align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felipeestluiz&theme=blue-green" alt="GitHub Streak Stats"/></td>
-  </tr>
+  </tr> -->
   <tr>
     <td colspan="2" align="center"><img height="120em" src="https://github-profile-trophy.vercel.app/?username=FelipeEstLuiz&row=1&theme=blue-green" alt="GitHub Trophies"/></td>
   </tr>
@@ -28,16 +29,20 @@ I am a passionate software developer with experience in backend and frontend tec
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ## 🛠️ Version Control Tools
 
