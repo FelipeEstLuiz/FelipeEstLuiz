@@ -1,41 +1,47 @@
 ## 👋 Hello! Welcome to my Github profile.
 ### My name is Felipe Estevam!
 
+I am a passionate software developer with experience in backend and frontend technologies. I enjoy building scalable applications, exploring new technologies. My goal is to create impactful solutions and continuously grow as a developer.
 
-<div>
-    <p>&nbsp;
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeEstLuiz&layout=compact&langs_count=7&theme=blue-green"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeEstLuiz&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true" alt="felipeestluiz"/>
-    </p>
-    <p>&nbsp;
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felipeestluiz&theme=blue-green&" alt="felipeestluiz" />
-    </p>
-    <p>&nbsp;
-        <img height="120em" src="https://github-profile-trophy.vercel.app/?username=FelipeEstLuiz&row=1)](https://github.com/FelipeEstLuiz/github-profile-trophy"/>
-    </p>
-</div>
+## 🚀 Featured Projects
 
-<h3 align="left">Languages and Tools:</h3>
+- [**Gerenciamento de Produtos**](https://github.com/FelipeEstLuiz/GerenciamentoProdutos): project created for study with the following technologies, .NET 9, Swagger, Autenticação JWT, MediatR, Asp.Versioning, Middleware for global exception handling, ValidationBehaviour, Cache, Dapper, Moq.Dapper, BCrypt, Hangfire, Angular 19, Material Design, xUnit, NSubstitute.
 
-<div style="display: inline-block"><br/>
-    <p align="left"> 
-        <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="assets/images/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
-        <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="assets/images/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/></a>
-        <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="assets/images/node.svg" alt="nodejs" width="40" height="40"/></a>
-        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="assets/images/mongodb-icon-2.svg" alt="mongodb" width="40" height="40"/></a>
-        <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="assets/images/microsoft-sql-server-1.svg" alt="mssql" width="40" height="40"/></a>
-        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="assets/images/mysql-3.svg" alt="mysql" width="40" height="40"/></a>          
-        <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="assets/images/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-        <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="assets/images/redis-original-wordmark.svg" alt="redis" width="60" height="40"/></a>
-        <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="assets/images/rabbitmq-original-wordmark.svg" alt="rabbitmq" width="90" height="50"/></a>   
-        <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="assets/images/angular-icon.svg" alt="angular" width="40" height="40"/> </a>
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="assets/images/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-        <a href="https://supabase.com/" target="_blank" rel="noreferrer"> <img src="assets/images/supabase-logo-png_seeklogo-435677.png" alt="supabase" width="40" height="40"/> </a>  
-        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="assets/images/typescript-svgrepo-com.svg" alt="typescript" width="40" height="40"/> </a>     
-    </p>
- </div> 
+- [**NetCore6-IdentityServer-MicroServices**](https://github.com/FelipeEstLuiz/NetCore6-IdentityServer-MicroServices): project created for study with the following technologies, ASP .NET Core 6, Oauth2, OpenID, Identity Server, RabbitMQ, MicroService.
 
-## Support
+
+<table align="center">
+  <tr>
+    <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeEstLuiz&layout=compact&langs_count=7&theme=blue-green" alt="Top Languages"/></td>
+    <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeEstLuiz&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true" alt="GitHub Stats"/></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felipeestluiz&theme=blue-green" alt="GitHub Streak Stats"/></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img height="120em" src="https://github-profile-trophy.vercel.app/?username=FelipeEstLuiz&row=1&theme=blue-green" alt="GitHub Trophies"/></td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Languages and Tools
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+## 🌐 Connect with me
 
 <div style="display: inline-block">
     <a href="https://www.linkedin.com/in/felipe-estevam-luiz-439185151" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -49,3 +55,6 @@
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
     <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
 </div> 
+
+---
+💡 Thank you for visiting my profile! Feel free to explore my repositories and connect with me. Let's build something amazing together!
