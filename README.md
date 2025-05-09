@@ -10,7 +10,7 @@ I am a passionate software developer with experience in backend and frontend tec
 - [**NetCore6-IdentityServer-MicroServices**](https://github.com/FelipeEstLuiz/NetCore6-IdentityServer-MicroServices): project created for study with the following technologies, ASP .NET Core 6, Oauth2, OpenID, Identity Server, RabbitMQ, MicroService.
 
 
-<table align="center">
+## <table align="center">
   <tr>
     <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeEstLuiz&layout=compact&langs_count=7&theme=blue-green" alt="Top Languages"/></td>
     <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeEstLuiz&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true" alt="GitHub Stats"/></td>
@@ -22,8 +22,6 @@ I am a passionate software developer with experience in backend and frontend tec
     <td colspan="2" align="center"><img height="120em" src="https://github-profile-trophy.vercel.app/?username=FelipeEstLuiz&row=1&theme=blue-green" alt="GitHub Trophies"/></td>
   </tr>
 </table>
-
----
 
 ## 🛠️ Languages and Tools
 
@@ -54,5 +52,6 @@ I am a passionate software developer with experience in backend and frontend tec
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </div> 
 
----
+##
+
 💡 Thank you for visiting my profile! Feel free to explore my repositories and connect with me. Let's build something amazing together!
