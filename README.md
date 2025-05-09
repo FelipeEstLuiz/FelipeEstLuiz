@@ -5,7 +5,7 @@ I am a passionate software developer with experience in backend and frontend tec
 
 ## 🚀 Featured Projects
 
-- [**Products Manager**](https://github.com/FelipeEstLuiz/GerenciamentoProdutos): project created for study with the following technologies, .NET 9, Swagger, Autentication JWT, MediatR, Asp.Versioning, Middleware for global exception handling, ValidationBehaviour, Cache, Dapper, Moq.Dapper, BCrypt, Hangfire, Angular 19, Material Design, xUnit, NSubstitute.
+- [**Product Management**](https://github.com/FelipeEstLuiz/GerenciamentoProdutos): project created for study with the following technologies, .NET 9, Swagger, Autentication JWT, MediatR, Asp.Versioning, Middleware for global exception handling, ValidationBehaviour, Cache, Dapper, Moq.Dapper, BCrypt, Hangfire, Angular 19, Material Design, xUnit, NSubstitute.
 
 - [**NetCore6-IdentityServer-MicroServices**](https://github.com/FelipeEstLuiz/NetCore6-IdentityServer-MicroServices): project created for study with the following technologies, ASP .NET Core 6, Oauth2, OpenID, Identity Server, RabbitMQ, MicroService.
 
