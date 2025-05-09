@@ -1,11 +1,11 @@
 ## 👋 Hello! Welcome to my Github profile.
 ### My name is Felipe Estevam!
 
-I am a passionate software developer with experience in backend and frontend technologies. I enjoy building scalable applications, exploring new technologies. My goal is to create impactful solutions and continuously grow as a developer.
+I am a passionate software developer with experience in backend and frontend technologies. I enjoy building scalable applications, exploring new technologies, and following the best design patterns and practices. My goal is to create impactful solutions and continuously grow as a developer.
 
 ## 🚀 Featured Projects
 
-- [**Gerenciamento de Produtos**](https://github.com/FelipeEstLuiz/GerenciamentoProdutos): project created for study with the following technologies, .NET 9, Swagger, Autenticação JWT, MediatR, Asp.Versioning, Middleware for global exception handling, ValidationBehaviour, Cache, Dapper, Moq.Dapper, BCrypt, Hangfire, Angular 19, Material Design, xUnit, NSubstitute.
+- [**Gerenciamento de Produtos**](https://github.com/FelipeEstLuiz/GerenciamentoProdutos): project created for study with the following technologies, .NET 9, Swagger, Autentication JWT, MediatR, Asp.Versioning, Middleware for global exception handling, ValidationBehaviour, Cache, Dapper, Moq.Dapper, BCrypt, Hangfire, Angular 19, Material Design, xUnit, NSubstitute.
 
 - [**NetCore6-IdentityServer-MicroServices**](https://github.com/FelipeEstLuiz/NetCore6-IdentityServer-MicroServices): project created for study with the following technologies, ASP .NET Core 6, Oauth2, OpenID, Identity Server, RabbitMQ, MicroService.
 
@@ -41,19 +41,17 @@ I am a passionate software developer with experience in backend and frontend tec
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
+## 🛠️ Version Control Tools
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+![TortoiseSVN](https://img.shields.io/badge/TortoiseSVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white)
+
 ## 🌐 Connect with me
 
 <div style="display: inline-block">
     <a href="https://www.linkedin.com/in/felipe-estevam-luiz-439185151" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</div> 
-<br/>
-
-## 
-
-<div style="display: inline-block">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-    <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
 </div> 
 
 ---
